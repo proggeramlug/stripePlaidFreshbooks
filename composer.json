@@ -1,0 +1,8 @@
+{
+  "name" : "freshbooks stripe ACH Connector",
+  "version" : "0.0.1",
+  "require" : {
+    "stripe/stripe-php" : "^3.12",
+    "rtconner/freshbooks-api" : "dev-master"
+  }
+}
